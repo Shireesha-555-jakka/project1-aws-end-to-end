@@ -1,2 +1,3 @@
-# project1-ecommers-devops
+# project1-ecommerce-devpos
+
 my practice
